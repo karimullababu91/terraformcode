@@ -1,0 +1,6 @@
+instance_type = "t2.micro"
+ami_id        = "ami-0be5f59fbc80d980c"
+count         = 2
+subnet_id     = "subnet-0a5661362a306bd89"
+vpc_id        = "vpc-0a5ad8249db4c1eb8"
+aws_region    = "us-west-2"
